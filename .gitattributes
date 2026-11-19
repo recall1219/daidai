@@ -1,0 +1,5 @@
+# 脚本与配置强制使用 LF 行尾，避免 Android/Magisk 执行出错
+*.sh text eol=lf
+customize.sh text eol=lf
+*.prop text eol=lf
+*.md text eol=lf
